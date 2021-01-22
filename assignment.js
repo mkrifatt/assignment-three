@@ -52,7 +52,7 @@ console.log(cost);
 
 
 
-/* 3rd Problem : Find longest name */
+/* 4th Problem : Find longest name */
 
 function megaFriend(name) {
     var longestName = "";
